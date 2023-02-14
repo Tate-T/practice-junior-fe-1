@@ -1,0 +1,15 @@
+.main-title{
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    text-shadow: -3px -3px 5px skyblue;
+    font-size: 86px;
+    font-style: italic;
+
+}
+
+.main-title:hover{
+    color: deeppink;
+    cursor: pointer;
+    
+}
