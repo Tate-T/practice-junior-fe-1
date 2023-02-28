@@ -69,3 +69,21 @@ text-shadow :3px 3px 2px rgb(26, 227, 0) ;
 text-transform: uppercase ;
 text-align: center;
 }
+
+
+
+.header {
+    background-color: aqua;
+}
+
+.pages {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+}
+
+.page-link {
+    font-size: 44px;
+    color: black;
+}
