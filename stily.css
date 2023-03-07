@@ -77,7 +77,8 @@ text-align: center;
 
 
 .header {
-    background-color: aqua;
+    background-image: radial-gradient( ellipse at center, green, yellow);
+    height: 200px;
 }
 
 .pages {
