@@ -1,3 +1,7 @@
+body {
+    background-image: linear-gradient(to right,green,red,aqua);
+}
+
 .main-title{
     text-align: center;
     text-transform: uppercase;
