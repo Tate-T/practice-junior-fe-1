@@ -26,8 +26,13 @@ box-shadow: 0px 0px 8px 5px rgb(9, 164, 226);
     height: 500px;
     overflow: scroll;
     position: relative;
+   transition: all 1s; 
 }
+.cards-article:hover {
+ box-shadow:  0px 0px 8px 5px rgb(0, 255, 64); 
+ transform: scale(1.05);
 
+}
 
 img {
     width: 100%;
@@ -91,4 +96,11 @@ text-align: center;
 .page-link {
     font-size: 44px;
     color: black;
+    transition: all 1s;
+    display: block;
+}
+
+.page-link:hover {
+    transform: rotate(360deg);
+
 }
